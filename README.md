@@ -26,3 +26,4 @@ Things you may want to cover:
 # ajax
 # ajax
 # ajax
+# ajax2
